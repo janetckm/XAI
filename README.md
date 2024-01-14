@@ -3,7 +3,7 @@ Inheritance of Intangible Cultural Heritage with a Cross-Disciplinary Design Thi
 Ka Man CHOI, Yu DAI | Hong Kong University of Science and Technology (Guangzhou)
 Hui SU, Chenyi ZHANG, Haoran SUN | China Academy of Art
 
-![work_xys_thumbnail](https://github.com/janetckm/XAI/assets/16043579/489ef798-128c-4709-a56e-23c5b0f21684)
+![04_Xiangyunsha_02](https://github.com/janetckm/XAI/assets/16043579/1c86edcf-b987-42d8-a17a-e21d3ffb1c20)
 
 
 ## Demonstration Video (In Reproduction)
