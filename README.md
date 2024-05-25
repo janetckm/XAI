@@ -7,8 +7,7 @@ Hong Kong University of Science and Technology (Guangzhou)<sup>1</sup>, China Ac
 ![04_Xiangyunsha_02](https://github.com/janetckm/XAI/assets/16043579/1c86edcf-b987-42d8-a17a-e21d3ffb1c20)
 
 
-## Demonstration Video (In Reproduction)
-https://youtu.be/PBKd4uNTcLo
+## Demonstration Video
+[https://youtu.be/PBKd4uNTcLo](https://youtu.be/10RyGg4_9dE)
 
-## Paper (Submitted)
-Please refer to the attached link in email.
+## Paper
